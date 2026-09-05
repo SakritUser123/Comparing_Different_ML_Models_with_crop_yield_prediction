@@ -53,11 +53,27 @@ Linear Regression
 
   -After testing we calculated the Mean Absolute Error , Mean Squared Error and R^2 error:
 
-  MAE: 0.44158960509232975
+    MAE: 0.44158960509232975
 
-  MSE  0.30640508457854443
+    MSE  0.30640508457854443
 
-  r^2 error:  0.8937180917506149
+    r^2 error:  0.8937180917506149
+
+Decision Tree Regressor
+------------------------------
+
+    -Used Scikit learn's DecisionTreeRegressor Model with no Optimization techniques applied.
+    
+    -After testing we calculated the Mean Absolute Error , Mean Squared Error and R^2 error:
+    
+      MAE: 0.5816531179191097
+      
+      MSE: 0.5299796954935165
+      
+      r^2 error; 0.8161673673008519
+
+  
+    
 
 
 
